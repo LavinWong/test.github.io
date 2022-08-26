@@ -481,9 +481,11 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin-bottom: 5px;
 }
 .section-padding{
-    padding: 150px 0;
+    padding: 180px 0;
 }
-
+.part-padding{
+    padding: 80px 0;
+}
 
 /*================================================
     03. intro section
@@ -762,6 +764,7 @@ a.banner-icon:focus{
 ==================================================*/
 .quotes-area{
 background: #f7f7f7;
+
 }
 
 
